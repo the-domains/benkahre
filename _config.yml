@@ -1,7 +1,7 @@
 name: BenKahre
 favicon: null
 layout_spectrum: 0.9311951238196343
-typography_spectrum: 0.682876716600731
+typography_spectrum: 0.50562
 title: Actor Ben Kahre
 cta:
   domain: null
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#1d1814'
-    - '#4b3b21'
-    - '#9a9c87'
-    - '#f0bca4'
+    - '#222c31'
+    - '#d5ad9d'
+    - '#c8e6f1'
+    - '#6f706b'
   brandStrength: 0.4635110206436366
   lightness: 0.7437562320847064
   saturation: 0.5614481891971081
