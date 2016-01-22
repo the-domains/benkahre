@@ -1,0 +1,28 @@
+name: BenKahre
+favicon: null
+layout_spectrum: 0.9311951238196343
+typography_spectrum: 0.682876716600731
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4635110206436366
+  lightness: 0.7437562320847064
+  saturation: 0.5614481891971081
+  rhythmicContrast: 0.5310339187271893
+purpose: []
