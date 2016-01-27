@@ -1,29 +1,41 @@
-name: BenKahre
-favicon: null
-layout_spectrum: 0.9311951238196343
-typography_spectrum: 0.50562
 title: Actor Ben Kahre
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5614482
+  brandStrength: 0.4635110206436366
+  lightness: 0.1469534
   brandColors:
     - '#969594'
     - '#1f201b'
     - '#616e61'
     - '#3c4339'
     - '#b27765'
-  brandStrength: 0.4635110206436366
-  lightness: 0.7437562320847064
-  saturation: 0.5614481891971081
-  rhythmicContrast: 0.5310339187271893
-purpose: []
+  rhythmicContrast: 0.5310339
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: BenKahre
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.50562
+layout_spectrum: 0.9311951238196343
